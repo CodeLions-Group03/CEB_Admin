@@ -1,0 +1,258 @@
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.IO.Compression.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\VBCSCompiler.exe
+D:\final project\myPart\Administrator\Administrator\bin\ApplicationInsights.config
+D:\final project\myPart\Administrator\Administrator\bin\Administrator.dll.config
+D:\final project\myPart\Administrator\Administrator\bin\Administrator.dll
+D:\final project\myPart\Administrator\Administrator\bin\Administrator.pdb
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\csc.exe
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\csc.exe.config
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\csc.rsp
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\csi.exe
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\csi.exe.config
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\csi.rsp
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.AppContext.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Collections.Immutable.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Console.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Diagnostics.Process.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.IO.FileSystem.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.IO.Pipes.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Reflection.Metadata.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Security.AccessControl.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Security.Claims.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Security.Principal.Windows.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Threading.Thread.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.ValueTuple.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Xml.XmlDocument.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Xml.XPath.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\vbc.exe
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\vbc.exe.config
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\vbc.rsp
+D:\final project\myPart\Administrator\Administrator\bin\roslyn\VBCSCompiler.exe.config
+D:\final project\myPart\Administrator\Administrator\bin\Antlr3.Runtime.dll
+D:\final project\myPart\Administrator\Administrator\bin\AspNet.ScriptManager.bootstrap.dll
+D:\final project\myPart\Administrator\Administrator\bin\AspNet.ScriptManager.jQuery.dll
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.AI.Agent.Intercept.dll
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.AI.DependencyCollector.dll
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.AI.Web.dll
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.AI.WindowsServer.dll
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.ApplicationInsights.dll
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.ScriptManager.WebForms.dll
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.Web.Infrastructure.dll
+D:\final project\myPart\Administrator\Administrator\bin\Newtonsoft.Json.dll
+D:\final project\myPart\Administrator\Administrator\bin\System.Web.Optimization.dll
+D:\final project\myPart\Administrator\Administrator\bin\WebGrease.dll
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\final project\myPart\Administrator\Administrator\bin\System.Web.Optimization.xml
+D:\final project\myPart\Administrator\Administrator\bin\Antlr3.Runtime.pdb
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\final project\myPart\Administrator\Administrator\bin\Newtonsoft.Json.xml
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.ApplicationInsights.xml
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.AI.DependencyCollector.xml
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.AI.WindowsServer.xml
+D:\final project\myPart\Administrator\Administrator\bin\Microsoft.AI.Web.xml
+D:\final project\myPart\Administrator\Administrator\obj\Debug\Administrator.csproj.CoreCompileInputs.cache
+D:\final project\myPart\Administrator\Administrator\obj\Debug\Administrator.csproj.CopyComplete
+D:\final project\myPart\Administrator\Administrator\obj\Debug\Administrator.dll
+D:\final project\myPart\Administrator\Administrator\obj\Debug\Administrator.pdb
+D:\final project\myPart\Administrator\Administrator\obj\Debug\Administrator.csprojAssemblyReference.cache
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Projects\Administrator\Administrator\bin\ApplicationInsights.config
+D:\Documents\Projects\Administrator\Administrator\bin\Administrator.dll.config
+D:\Documents\Projects\Administrator\Administrator\bin\Administrator.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Administrator.pdb
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\csc.exe
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\csc.exe.config
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\csc.rsp
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\csi.exe
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\csi.exe.config
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\csi.rsp
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.AppContext.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Console.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Diagnostics.Process.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.IO.Pipes.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Security.AccessControl.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Security.Claims.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Threading.Thread.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\vbc.exe
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\vbc.exe.config
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\vbc.rsp
+D:\Documents\Projects\Administrator\Administrator\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Projects\Administrator\Administrator\bin\Antlr3.Runtime.dll
+D:\Documents\Projects\Administrator\Administrator\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Documents\Projects\Administrator\Administrator\bin\AspNet.ScriptManager.jQuery.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.AI.DependencyCollector.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.AI.Web.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.AI.WindowsServer.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.ApplicationInsights.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Newtonsoft.Json.dll
+D:\Documents\Projects\Administrator\Administrator\bin\System.Web.Optimization.dll
+D:\Documents\Projects\Administrator\Administrator\bin\WebGrease.dll
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Projects\Administrator\Administrator\bin\System.Web.Optimization.xml
+D:\Documents\Projects\Administrator\Administrator\bin\Antlr3.Runtime.pdb
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Documents\Projects\Administrator\Administrator\bin\Newtonsoft.Json.xml
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.ApplicationInsights.xml
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.AI.DependencyCollector.xml
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.AI.WindowsServer.xml
+D:\Documents\Projects\Administrator\Administrator\bin\Microsoft.AI.Web.xml
+D:\Documents\Projects\Administrator\Administrator\obj\Debug\Administrator.csprojAssemblyReference.cache
+D:\Documents\Projects\Administrator\Administrator\obj\Debug\Administrator.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Administrator\Administrator\obj\Debug\Administrator.csproj.CopyComplete
+D:\Documents\Projects\Administrator\Administrator\obj\Debug\Administrator.dll
+D:\Documents\Projects\Administrator\Administrator\obj\Debug\Administrator.pdb
+D:\Documents\Projects\Group Project\Administrator\Administrator\obj\Debug\Administrator.csprojAssemblyReference.cache
+D:\Documents\Projects\Group Project\Administrator\Administrator\obj\Debug\Administrator.csproj.CoreCompileInputs.cache
+D:\Documents\Projects\Group Project\Administrator\Administrator\obj\Debug\Administrator.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\obj\Debug\Administrator.pdb
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\ApplicationInsights.config
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Administrator.dll.config
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Administrator.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Administrator.pdb
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\csc.exe
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\csc.exe.config
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\csc.rsp
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\csi.exe
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\csi.exe.config
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\csi.rsp
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.AppContext.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Console.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Diagnostics.Process.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.IO.Pipes.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Security.AccessControl.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Security.Claims.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Threading.Thread.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\vbc.exe
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\vbc.exe.config
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\vbc.rsp
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Antlr3.Runtime.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\AspNet.ScriptManager.jQuery.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.AI.DependencyCollector.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.AI.Web.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.AI.WindowsServer.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.ApplicationInsights.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Newtonsoft.Json.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\System.Web.Optimization.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\WebGrease.dll
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\System.Web.Optimization.xml
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Antlr3.Runtime.pdb
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Newtonsoft.Json.xml
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.ApplicationInsights.xml
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.AI.DependencyCollector.xml
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.AI.WindowsServer.xml
+D:\Documents\Projects\Group Project\Administrator\Administrator\bin\Microsoft.AI.Web.xml
+D:\Documents\Projects\Group Project\Administrator\Administrator\obj\Debug\Administrator.csproj.CopyComplete
